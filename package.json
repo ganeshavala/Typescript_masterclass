@@ -1,0 +1,9 @@
+{
+  "name": "typescript-masterclass-lesson-32",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
+}
